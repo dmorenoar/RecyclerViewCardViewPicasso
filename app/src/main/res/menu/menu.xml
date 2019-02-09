@@ -6,7 +6,7 @@
     <item
         android:title="Item"
         android:id="@+id/add_name"
-        android:icon="@android:drawable/ic_menu_add"
+        android:icon="@drawable/ic_add"
         app:showAsAction="ifRoom"
 
         />
